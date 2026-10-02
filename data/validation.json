@@ -1,0 +1,24 @@
+{
+  "news_records": 20028,
+  "study_news_records": 17538,
+  "study_filtered_records": 2552,
+  "news_collections": 128,
+  "news_companies": 40,
+  "primary_stock_quotes": 380185,
+  "study_stock_quotes": 330749,
+  "historical_stock_quotes": 10831,
+  "checks": {
+    "news_parsed_fields_roundtrip": true,
+    "stock_decimal_values_roundtrip": true,
+    "filtered_company_counts_match_publication": true,
+    "all_news_timestamps_in_2009": true
+  },
+  "final_integrity_checks": {
+    "json_files": 87,
+    "verified_payload_hashes": 82,
+    "source_news_fields_verified": 20028,
+    "unresolved_json_references": 0,
+    "broken_readme_links": 0,
+    "original_source_files": 170
+  }
+}

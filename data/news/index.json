@@ -1,0 +1,282 @@
+[
+  {
+    "company_prefix": "acesita",
+    "study_company": false,
+    "path": "data/news/additional/acesita.json",
+    "records": 5,
+    "legacy_filtered": 0
+  },
+  {
+    "company_prefix": "all",
+    "study_company": true,
+    "path": "data/news/study/all.json",
+    "records": 62,
+    "legacy_filtered": 6
+  },
+  {
+    "company_prefix": "ambev",
+    "study_company": true,
+    "path": "data/news/study/ambev.json",
+    "records": 212,
+    "legacy_filtered": 37
+  },
+  {
+    "company_prefix": "aracruz",
+    "study_company": false,
+    "path": "data/news/additional/aracruz.json",
+    "records": 334,
+    "legacy_filtered": 26
+  },
+  {
+    "company_prefix": "bradesco",
+    "study_company": true,
+    "path": "data/news/study/bradesco.json",
+    "records": 1472,
+    "legacy_filtered": 216
+  },
+  {
+    "company_prefix": "brasil telecom",
+    "study_company": true,
+    "path": "data/news/study/brasil-telecom.json",
+    "records": 484,
+    "legacy_filtered": 48
+  },
+  {
+    "company_prefix": "braskem",
+    "study_company": true,
+    "path": "data/news/study/braskem.json",
+    "records": 215,
+    "legacy_filtered": 37
+  },
+  {
+    "company_prefix": "celesc",
+    "study_company": true,
+    "path": "data/news/study/celesc.json",
+    "records": 79,
+    "legacy_filtered": 20
+  },
+  {
+    "company_prefix": "cemig",
+    "study_company": true,
+    "path": "data/news/study/cemig.json",
+    "records": 184,
+    "legacy_filtered": 31
+  },
+  {
+    "company_prefix": "cesp",
+    "study_company": true,
+    "path": "data/news/study/cesp.json",
+    "records": 99,
+    "legacy_filtered": 18
+  },
+  {
+    "company_prefix": "comgas",
+    "study_company": true,
+    "path": "data/news/study/comgas.json",
+    "records": 71,
+    "legacy_filtered": 20
+  },
+  {
+    "company_prefix": "copel",
+    "study_company": true,
+    "path": "data/news/study/copel.json",
+    "records": 97,
+    "legacy_filtered": 31
+  },
+  {
+    "company_prefix": "cosan",
+    "study_company": true,
+    "path": "data/news/study/cosan.json",
+    "records": 212,
+    "legacy_filtered": 31
+  },
+  {
+    "company_prefix": "cyrela",
+    "study_company": true,
+    "path": "data/news/study/cyrela.json",
+    "records": 257,
+    "legacy_filtered": 49
+  },
+  {
+    "company_prefix": "eletrobras",
+    "study_company": true,
+    "path": "data/news/study/eletrobras.json",
+    "records": 535,
+    "legacy_filtered": 64
+  },
+  {
+    "company_prefix": "eletropaulo",
+    "study_company": true,
+    "path": "data/news/study/eletropaulo.json",
+    "records": 348,
+    "legacy_filtered": 48
+  },
+  {
+    "company_prefix": "embraer",
+    "study_company": true,
+    "path": "data/news/study/embraer.json",
+    "records": 661,
+    "legacy_filtered": 108
+  },
+  {
+    "company_prefix": "gerdau",
+    "study_company": true,
+    "path": "data/news/study/gerdau.json",
+    "records": 610,
+    "legacy_filtered": 81
+  },
+  {
+    "company_prefix": "gol",
+    "study_company": true,
+    "path": "data/news/study/gol.json",
+    "records": 640,
+    "legacy_filtered": 99
+  },
+  {
+    "company_prefix": "ipiranga",
+    "study_company": false,
+    "path": "data/news/additional/ipiranga.json",
+    "records": 55,
+    "legacy_filtered": 4
+  },
+  {
+    "company_prefix": "itaú",
+    "study_company": true,
+    "path": "data/news/study/itau.json",
+    "records": 1525,
+    "legacy_filtered": 201
+  },
+  {
+    "company_prefix": "klabin",
+    "study_company": true,
+    "path": "data/news/study/klabin.json",
+    "records": 184,
+    "legacy_filtered": 28
+  },
+  {
+    "company_prefix": "light",
+    "study_company": true,
+    "path": "data/news/study/light.json",
+    "records": 53,
+    "legacy_filtered": 17
+  },
+  {
+    "company_prefix": "natura",
+    "study_company": true,
+    "path": "data/news/study/natura.json",
+    "records": 379,
+    "legacy_filtered": 59
+  },
+  {
+    "company_prefix": "net",
+    "study_company": true,
+    "path": "data/news/study/net.json",
+    "records": 25,
+    "legacy_filtered": 4
+  },
+  {
+    "company_prefix": "perdigão",
+    "study_company": false,
+    "path": "data/news/additional/perdigao.json",
+    "records": 349,
+    "legacy_filtered": 21
+  },
+  {
+    "company_prefix": "petrobras",
+    "study_company": true,
+    "path": "data/news/study/petrobras.json",
+    "records": 5413,
+    "legacy_filtered": 761
+  },
+  {
+    "company_prefix": "sabesp",
+    "study_company": true,
+    "path": "data/news/study/sabesp.json",
+    "records": 446,
+    "legacy_filtered": 91
+  },
+  {
+    "company_prefix": "sadia",
+    "study_company": false,
+    "path": "data/news/additional/sadia.json",
+    "records": 481,
+    "legacy_filtered": 37
+  },
+  {
+    "company_prefix": "siderúrgica nacional",
+    "study_company": true,
+    "path": "data/news/study/siderurgica-nacional.json",
+    "records": 159,
+    "legacy_filtered": 29
+  },
+  {
+    "company_prefix": "souza cruz",
+    "study_company": true,
+    "path": "data/news/study/souza-cruz.json",
+    "records": 82,
+    "legacy_filtered": 9
+  },
+  {
+    "company_prefix": "tam",
+    "study_company": true,
+    "path": "data/news/study/tam.json",
+    "records": 899,
+    "legacy_filtered": 143
+  },
+  {
+    "company_prefix": "telemig",
+    "study_company": false,
+    "path": "data/news/additional/telemig.json",
+    "records": 14,
+    "legacy_filtered": 3
+  },
+  {
+    "company_prefix": "telesp",
+    "study_company": true,
+    "path": "data/news/study/telesp.json",
+    "records": 98,
+    "legacy_filtered": 35
+  },
+  {
+    "company_prefix": "tim",
+    "study_company": true,
+    "path": "data/news/study/tim.json",
+    "records": 1172,
+    "legacy_filtered": 148
+  },
+  {
+    "company_prefix": "unibanco",
+    "study_company": false,
+    "path": "data/news/additional/unibanco.json",
+    "records": 1177,
+    "legacy_filtered": 173
+  },
+  {
+    "company_prefix": "usiminas",
+    "study_company": true,
+    "path": "data/news/study/usiminas.json",
+    "records": 562,
+    "legacy_filtered": 51
+  },
+  {
+    "company_prefix": "vale do rio doce",
+    "study_company": true,
+    "path": "data/news/study/vale-do-rio-doce.json",
+    "records": 147,
+    "legacy_filtered": 10
+  },
+  {
+    "company_prefix": "vivo",
+    "study_company": true,
+    "path": "data/news/study/vivo.json",
+    "records": 156,
+    "legacy_filtered": 22
+  },
+  {
+    "company_prefix": "votorantim celulose",
+    "study_company": false,
+    "path": "data/news/additional/votorantim-celulose.json",
+    "records": 75,
+    "legacy_filtered": 4
+  }
+]

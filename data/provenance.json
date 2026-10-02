@@ -1,0 +1,1767 @@
+{
+  "research_author": "Philippe Santa Maria Nizer",
+  "research_title": "Predicting published news effect in the Brazilian stock market",
+  "publication_doi": "10.1016/j.eswa.2012.02.162",
+  "conversion_date": "2026-10-02",
+  "source_description": "Original research files supplied by Philippe Santa Maria Nizer. Original filenames identify historical inputs; they are not links or paths to files required by this repository.",
+  "files": [
+    {
+      "path": "data/news/additional/acesita.json",
+      "kind": "news",
+      "records": 5,
+      "bytes": 18274,
+      "sha256": "39e7a7ff674e33bb1024e9ef9082b1aea65e0c3c23116481e430a854087bb70a",
+      "sources": [
+        {
+          "sha256": "a5012cc23c1bbb728c472a5f2e508f1bdb33edec10ce228e940ddcf51a8f3d24",
+          "original_filenames": [
+            "acesita-01.xml"
+          ]
+        },
+        {
+          "sha256": "906b0cc309ae3f6aa7c05dba4293fa4f67fb47d4546f4f3214c27c4104dfb96f",
+          "original_filenames": [
+            "acesita-02.xml"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "data/news/additional/aracruz.json",
+      "kind": "news",
+      "records": 334,
+      "bytes": 1289999,
+      "sha256": "3da582dc8c0f96c1dbef5a2d05fa74dd1a26184ba11656e169c7ab0e0ffc353d",
+      "sources": [
+        {
+          "sha256": "4fa332ea2164b2c7e681e047174bd4bb2c3a23463f0a835382fe87c6b30fa555",
+          "original_filenames": [
+            "aracruz-01.xml"
+          ]
+        },
+        {
+          "sha256": "df0648afa6f426fbb52dc2125ab6e1f3a8af010e810a7c8062f2d57c3a8218b1",
+          "original_filenames": [
+            "aracruz-02.xml"
+          ]
+        },
+        {
+          "sha256": "b54fe9ab97fab3fa151edee78788720c188f4476904188cd29bd82531b4c99f7",
+          "original_filenames": [
+            "aracruz-03.xml"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "data/news/additional/ipiranga.json",
+      "kind": "news",
+      "records": 55,
+      "bytes": 299011,
+      "sha256": "2ec9e866fb438ff6124bfa7e4e0bfbf6a02414c46f98b02aed6ebd0664fa8eb3",
+      "sources": [
+        {
+          "sha256": "3bde41f5b1a74a467c0015b0668375d3f85a11fadac5d2547268c95ae147a71f",
+          "original_filenames": [
+            "ipiranga-01.xml"
+          ]
+        },
+        {
+          "sha256": "7fee537a9b8414e9d58701d3b957833d99a30aa930799d5413a5a4ac5957f0d8",
+          "original_filenames": [
+            "ipiranga-02.xml"
+          ]
+        },
+        {
+          "sha256": "fd6c4830ac4d7630b7745a4cb7765af7663f41bb3af1de675b92ff5e166a9fd5",
+          "original_filenames": [
+            "ipiranga-03.xml"
+          ]
+        },
+        {
+          "sha256": "402ae4c6584188786a6a80550638f2a15eeffec1812525885649a36536ad72c9",
+          "original_filenames": [
+            "ipiranga-04.xml"
+          ]
+        },
+        {
+          "sha256": "721bb8d6214bc71e4a8993d40ecbada3ebdf737c5eb3c0f9afed2349220be579",
+          "original_filenames": [
+            "ipiranga-05.xml"
+          ]
+        },
+        {
+          "sha256": "2a5cba915414f0922ece604670d6e6a25ea1a208f272a8b1925bf4b61be4e02a",
+          "original_filenames": [
+            "ipiranga-06.xml"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "data/news/additional/perdigao.json",
+      "kind": "news",
+      "records": 349,
+      "bytes": 1350735,
+      "sha256": "a1a7c6c835ee4f5e1378cf38f6dbd0a22fbbd545abff64834df989c12d5caac6",
+      "sources": [
+        {
+          "sha256": "747e91aff3344c596bc4ac611dcecb716ab811c1f4259aa7b6e74d396f71312a",
+          "original_filenames": [
+            "perdigão-01.xml"
+          ]
+        },
+        {
+          "sha256": "d3843c9da5d5a4d16b305f790b52a83c2f977a3caaecdbe9e044124ed63c04b7",
+          "original_filenames": [
+            "perdigão-02.xml"
+          ]
+        },
+        {
+          "sha256": "a786ada5ef7ac00a529f00125fe961c9adaa7d9f36df15d556206262dad82df7",
+          "original_filenames": [
+            "perdigão-03.xml"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "data/news/additional/sadia.json",
+      "kind": "news",
+      "records": 481,
+      "bytes": 1820554,
+      "sha256": "96ac5222e4a1d1ba5d6ce8ca52c76dc8aa4f7488ab5887da9439b803f007d59c",
+      "sources": [
+        {
+          "sha256": "c3383afe7630d33ba218889095eaea6578b5401942239bfc5eff462e2bf4def7",
+          "original_filenames": [
+            "sadia-01.xml"
+          ]
+        },
+        {
+          "sha256": "251bb98ecb554d8b225f8d2326efd106d520938d7a9fa820b22cf5ab6768f386",
+          "original_filenames": [
+            "sadia-02.xml"
+          ]
+        },
+        {
+          "sha256": "2e126dac069ac2d4cc1e342e4c9f9310f3f0cc1c1f62888740fa6282619a9dce",
+          "original_filenames": [
+            "sadia-03.xml"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "data/news/additional/telemig.json",
+      "kind": "news",
+      "records": 14,
+      "bytes": 50088,
+      "sha256": "14fa75094f712ed057e497200906b21d6c0b3214d743f0e1c71d889391a04ea0",
+      "sources": [
+        {
+          "sha256": "f4ebdd0b63b543c8369147ee83a7f0cbf37dca47df8d53195c18b669e62534a6",
+          "original_filenames": [
+            "telemig-01.xml"
+          ]
+        },
+        {
+          "sha256": "27c71cff355fa7933b8db00eee2331e538a23102425af93beac51140c551c3c1",
+          "original_filenames": [
+            "telemig-02.xml"
+          ]
+        },
+        {
+          "sha256": "e42f4876e5346888375f24ed69fb60535c074b40748624ed431e2bafd6ffc939",
+          "original_filenames": [
+            "telemig-03.xml"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "data/news/additional/unibanco.json",
+      "kind": "news",
+      "records": 1177,
+      "bytes": 4436586,
+      "sha256": "b891375afa84d01e657e3295452ffeeaf55f31a6620a5efd8f997b7e06852727",
+      "sources": [
+        {
+          "sha256": "8c1df4504d26e67c81563ec17b8d329e337c71a47c0068615a2cd89774a27369",
+          "original_filenames": [
+            "unibanco-01.xml"
+          ]
+        },
+        {
+          "sha256": "dc346408e79ae07aaa3f227367b8575577b416d46fa7ef93f8457034246af3bc",
+          "original_filenames": [
+            "unibanco-02.xml"
+          ]
+        },
+        {
+          "sha256": "deaf050f621ae97f3f07450ca03d051c3fd7f2ac39b3cd61ebe537e66b96dd69",
+          "original_filenames": [
+            "unibanco-03.xml"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "data/news/additional/votorantim-celulose.json",
+      "kind": "news",
+      "records": 75,
+      "bytes": 245151,
+      "sha256": "536f696ebe24b8bdeb024feb31ca2c41c0f7c2c37c923c1279c9e97ca65583ef",
+      "sources": [
+        {
+          "sha256": "e8d81cf8e2276f19216c76990d085862ce6e5a52b67523f1e8f80ffad8dbc410",
+          "original_filenames": [
+            "votorantim celulose-01.xml"
+          ]
+        },
+        {
+          "sha256": "e2efde3e3530cb3f6bfd1bc194d10bb97e5f156da8b163971b3af2034fb3570f",
+          "original_filenames": [
+            "votorantim celulose-02.xml"
+          ]
+        },
+        {
+          "sha256": "b0ea25aa5938040a34e7c1b68044c0e52d8d7e00c3d23f10ee32e8e9edf9f461",
+          "original_filenames": [
+            "votorantim celulose-03.xml"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "data/news/study/all.json",
+      "kind": "news",
+      "records": 62,
+      "bytes": 182960,
+      "sha256": "c036cdfe9b3d136144c570a823f81c65582e01a7e69bdddcd54271e24eadc910",
+      "sources": [
+        {
+          "sha256": "65e2922c6050be5c6cf9ec778c35d527d30de1c157ad707d2dbf1f49c2e4e44b",
+          "original_filenames": [
+            "all-01.xml"
+          ]
+        },
+        {
+          "sha256": "0923d98db8bfd4da392858d0232d9f772479add07e8d39964fab84ad3b66cda5",
+          "original_filenames": [
+            "all-02.xml"
+          ]
+        },
+        {
+          "sha256": "4a61f6b0cd2e52828937e1a4f68a81e5065164958176b0c938ffe1b2df6532ab",
+          "original_filenames": [
+            "all-03.xml"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "data/news/study/ambev.json",
+      "kind": "news",
+      "records": 212,
+      "bytes": 839445,
+      "sha256": "69e1205a6ecc83565494a464e91584dbb73cc1ece6b0880c58aeff7ba7c92ed0",
+      "sources": [
+        {
+          "sha256": "3ddfbcece71ef794109e58af9dd4fc8ed6d8752a4fef0c8f961ab3a529a0a98d",
+          "original_filenames": [
+            "ambev-01.xml"
+          ]
+        },
+        {
+          "sha256": "362deeb88a11a9ed587b8dcd7f81d4b4daad666670bd4a83b4eb3d41b804e46b",
+          "original_filenames": [
+            "ambev-02.xml"
+          ]
+        },
+        {
+          "sha256": "139a12120ef400e0c87488c2da556b003387868359fd2ac4acdc24019953facb",
+          "original_filenames": [
+            "ambev-03.xml"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "data/news/study/bradesco.json",
+      "kind": "news",
+      "records": 1472,
+      "bytes": 5476361,
+      "sha256": "2efd228408a10ef7f3dbc45d12ae1ff1cb1f87c76016cf3a06fcbc1b466b30b5",
+      "sources": [
+        {
+          "sha256": "c236e7c9b9eda79e2333544b47acf1e561e2a00641a7f719e9296fef0ce3cd90",
+          "original_filenames": [
+            "bradesco-01.xml"
+          ]
+        },
+        {
+          "sha256": "63989b34b7fcaa0a52879c76a12680f91480fd20528d113005b1d4c8e924d2db",
+          "original_filenames": [
+            "bradesco-02.xml"
+          ]
+        },
+        {
+          "sha256": "a3b854d5333650a36998ea112bb557e1c6bff1cedde9d26ff76c0db0c64c1b3d",
+          "original_filenames": [
+            "bradesco-03.xml"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "data/news/study/brasil-telecom.json",
+      "kind": "news",
+      "records": 484,
+      "bytes": 1651378,
+      "sha256": "1473c086b451b23de1544a69c52a8a9a7b8a8a9546caccaf51401d448ceca3e6",
+      "sources": [
+        {
+          "sha256": "31c3e076e2fa70b89d4072d232769e293310e54100f74e4b8a897da16bb12de7",
+          "original_filenames": [
+            "brasil telecom-01.xml"
+          ]
+        },
+        {
+          "sha256": "3c7f0b62dc9a0720a361c480678881977cc938ed15a35ffef4c9b497e4826df8",
+          "original_filenames": [
+            "brasil telecom-02.xml"
+          ]
+        },
+        {
+          "sha256": "a80c7d8ffca280b1db59244bcaf4e4054e587e2bae06ca7b3cbf6c8c4220247b",
+          "original_filenames": [
+            "brasil telecom-03.xml"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "data/news/study/braskem.json",
+      "kind": "news",
+      "records": 215,
+      "bytes": 786388,
+      "sha256": "2d329b9094a3738d4fec3dffe150dd30da8f38b5a3841cc293c0eaeafda36968",
+      "sources": [
+        {
+          "sha256": "ca074216c9c6ba83fb2df42d50f7ae7f22285958695059e43ebab090d18a1975",
+          "original_filenames": [
+            "braskem-01.xml"
+          ]
+        },
+        {
+          "sha256": "da364a91ac249ce4994e40a2a866df4c989108eb7082aa07017a4f49fd3f1243",
+          "original_filenames": [
+            "braskem-02.xml"
+          ]
+        },
+        {
+          "sha256": "9304581bf5d720c59c8426c73fc600be9698bcbe728a3da44b1d65975c092097",
+          "original_filenames": [
+            "braskem-03.xml"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "data/news/study/celesc.json",
+      "kind": "news",
+      "records": 79,
+      "bytes": 284957,
+      "sha256": "5e21dc31a382721232ee16a7d961130aaee2e9b15acf0be083aaa9a6f83ba1c7",
+      "sources": [
+        {
+          "sha256": "d9601819536b8a245839722e1ecadfd90895749580721f4549dc51384728d7b4",
+          "original_filenames": [
+            "celesc-01.xml"
+          ]
+        },
+        {
+          "sha256": "f18e3b77496d79ce608c74ecd9bfda4bd8ce053bc61894e1335d7f2d9f11c95e",
+          "original_filenames": [
+            "celesc-02.xml"
+          ]
+        },
+        {
+          "sha256": "a0d1113d68f17928ad9bf3cc26864e7b1540e970e7425e90e7dff382beef7829",
+          "original_filenames": [
+            "celesc-03.xml"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "data/news/study/cemig.json",
+      "kind": "news",
+      "records": 184,
+      "bytes": 615016,
+      "sha256": "8ab11e4d6df189cce8b72c29c93ddef05462954eee17f9041459c71cef4bc226",
+      "sources": [
+        {
+          "sha256": "4af2b0de2b40d0d95bfbb6e8919e57eae599ee7a388982b44ab2a4c448c90ccf",
+          "original_filenames": [
+            "cemig-01.xml"
+          ]
+        },
+        {
+          "sha256": "cc42b894c5363a4cd814ecd77e58f0e83832ca737f676c2d019652a749a0f5d7",
+          "original_filenames": [
+            "cemig-02.xml"
+          ]
+        },
+        {
+          "sha256": "fc95567de272ba43dd89200bbe506d31f3a268a10618e7eaaba0a51aea08afc7",
+          "original_filenames": [
+            "cemig-03.xml"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "data/news/study/cesp.json",
+      "kind": "news",
+      "records": 99,
+      "bytes": 338175,
+      "sha256": "fcb874b28c6356711b77fbe4421c576cd7f3be1a8d81e164eb3f7f2f6c9b6e4b",
+      "sources": [
+        {
+          "sha256": "4141a7d74b2d347010b51def9dcd8c6717250912f604245d8b4633b770356b7f",
+          "original_filenames": [
+            "cesp-01.xml"
+          ]
+        },
+        {
+          "sha256": "bbdbabc159d060685d4ba6648803b404f47a29757cc0a56c039cbd19766502b6",
+          "original_filenames": [
+            "cesp-02.xml"
+          ]
+        },
+        {
+          "sha256": "6ff3ff970db8e1237568268d46363e6ccb073e465880787b120484b5c1c62fdd",
+          "original_filenames": [
+            "cesp-03.xml"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "data/news/study/comgas.json",
+      "kind": "news",
+      "records": 71,
+      "bytes": 213889,
+      "sha256": "0e26af77c094e1095f61e05033b11b8777728b640e9a43c8a0d32f4301badbc3",
+      "sources": [
+        {
+          "sha256": "99405d17a01f1226b5bfffe36927313ac2a4cfc5b1c975455fe4f0165bc04a6c",
+          "original_filenames": [
+            "comgas-01.xml"
+          ]
+        },
+        {
+          "sha256": "36938282918b6219d9f6fa3a80236ded234c2a4df406cf8c765c77b5525d3c4a",
+          "original_filenames": [
+            "comgas-02.xml"
+          ]
+        },
+        {
+          "sha256": "7e8909fe253fe761ee8670012c0934197eb0ca3eee888b27ea9fb82f731c2cc8",
+          "original_filenames": [
+            "comgas-03.xml"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "data/news/study/copel.json",
+      "kind": "news",
+      "records": 97,
+      "bytes": 301793,
+      "sha256": "a44bfda19f629457b664591db83b7f4e5d731c7ed9a3313134c8ba8961b3488b",
+      "sources": [
+        {
+          "sha256": "3621dacd737080d3b9a2a0965f13353b94d3c9983e6117772d84cee4b3e76782",
+          "original_filenames": [
+            "copel-01.xml"
+          ]
+        },
+        {
+          "sha256": "975263a791af5213a94ee8b3dd88b9893954891a744fe5c072632cb3693c7c76",
+          "original_filenames": [
+            "copel-02.xml"
+          ]
+        },
+        {
+          "sha256": "3a497c933b2ad20d7ec518fc3570b1f8b93fb4efad95ff012b984e2ffb63fab1",
+          "original_filenames": [
+            "copel-03.xml"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "data/news/study/cosan.json",
+      "kind": "news",
+      "records": 212,
+      "bytes": 813604,
+      "sha256": "82f110e352f716a31544a53db604955dcd68869cb1e6f07a52e46eab0971232c",
+      "sources": [
+        {
+          "sha256": "8000489f9303a5b50d3813e14c3086c4141ed790581f527f50c0a4be147a6bec",
+          "original_filenames": [
+            "cosan-01.xml"
+          ]
+        },
+        {
+          "sha256": "d8e9c637bf69d1639cd46b82faa96d82c02a64b56ea3eef4b433beadce998e32",
+          "original_filenames": [
+            "cosan-02.xml"
+          ]
+        },
+        {
+          "sha256": "af680088e1a6a2ab81477e69c718b39e2bdea006a82b08a7e350e276c12df94f",
+          "original_filenames": [
+            "cosan-03.xml"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "data/news/study/cyrela.json",
+      "kind": "news",
+      "records": 257,
+      "bytes": 1037772,
+      "sha256": "1e1d126c7f0ffef616462708287475f466f750d2de7728fcc519c8b0439b594c",
+      "sources": [
+        {
+          "sha256": "c27c7e2fb0697db360a31df49fc9ae849a637579e45ed04a14b47099b73656ef",
+          "original_filenames": [
+            "cyrela-01.xml"
+          ]
+        },
+        {
+          "sha256": "ed4cf41c928d109285ed6997bf94934ce4ba5dd85dbfd441ba455a60e37228f2",
+          "original_filenames": [
+            "cyrela-02.xml"
+          ]
+        },
+        {
+          "sha256": "99a27ab8781cf89273c7d61e7e09ff80e2efe67439bb5538f0ebf3d7bf332963",
+          "original_filenames": [
+            "cyrela-03.xml"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "data/news/study/eletrobras.json",
+      "kind": "news",
+      "records": 535,
+      "bytes": 1828727,
+      "sha256": "06e1dc96263af8bc42de28a3c8a74d925a3985ed6070a0de8a269de8da11d2e0",
+      "sources": [
+        {
+          "sha256": "3483377292a479e3747bb0d38785db9ed381dffd37a92080d02ae0cc602a5061",
+          "original_filenames": [
+            "eletrobras-01.xml"
+          ]
+        },
+        {
+          "sha256": "e449acce20f80dd6cf73864b43b549fff3a0bc0ba1fa14b194043398a9abf9f9",
+          "original_filenames": [
+            "eletrobras-02.xml"
+          ]
+        },
+        {
+          "sha256": "b73ecdce34252b4e56a1a449f0048680c07c5f83c022db3d1716877001944ae8",
+          "original_filenames": [
+            "eletrobras-03.xml"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "data/news/study/eletropaulo.json",
+      "kind": "news",
+      "records": 348,
+      "bytes": 1066996,
+      "sha256": "85f3d5eddbcbcf5035890db121390c8fd756e3ac0a1f9e17f49f32dcd458c299",
+      "sources": [
+        {
+          "sha256": "e7776921f92d49517db957db4c0744fd3e004871e1283001ee03a14bc1acfbd5",
+          "original_filenames": [
+            "eletropaulo-01.xml"
+          ]
+        },
+        {
+          "sha256": "d6b40bb268b72c5fe64da041e26a23f64cccf3f9b659dd2a6a029afa861b2993",
+          "original_filenames": [
+            "eletropaulo-02.xml"
+          ]
+        },
+        {
+          "sha256": "408a7cddc4df3759bf45ea6c0acf1724fc297acd0bbce7fd2f8bdfbc84a29d58",
+          "original_filenames": [
+            "eletropaulo-03.xml"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "data/news/study/embraer.json",
+      "kind": "news",
+      "records": 661,
+      "bytes": 2563472,
+      "sha256": "25f9de10059ca12ab99dfd2ba2065125cd55c74ecadebc1c0e68bda1f6938573",
+      "sources": [
+        {
+          "sha256": "794298d2292fabdc912f3e93e11c1401b66ea4c29dbfcfeb2ba0cd94d490bbbb",
+          "original_filenames": [
+            "embraer-01.xml"
+          ]
+        },
+        {
+          "sha256": "03cd3ffd58c151690748dce3046f22ac2cc4080ac7fda910f0b51e95b0126e1b",
+          "original_filenames": [
+            "embraer-02.xml"
+          ]
+        },
+        {
+          "sha256": "8b40304aeca3981eab4d9bb69410ceabab06db1fa4e39ff46dfece9436d12a56",
+          "original_filenames": [
+            "embraer-03.xml"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "data/news/study/gerdau.json",
+      "kind": "news",
+      "records": 610,
+      "bytes": 2614174,
+      "sha256": "916bca6307a00d8c9b219806ed9cff9573c86e4c08b51ddd362caa88492bf491",
+      "sources": [
+        {
+          "sha256": "8550d055d8e1aa7603f58e406179123984773fa2d3daf89a87b425563f0d8797",
+          "original_filenames": [
+            "gerdau-01.xml"
+          ]
+        },
+        {
+          "sha256": "557725923432765d7233a01f9c1b8544ffad718afad744abdc1579a77809d6c8",
+          "original_filenames": [
+            "gerdau-02.xml"
+          ]
+        },
+        {
+          "sha256": "ebec37bad2598ae2c710ac8836e0ccc4a866ea34decaaba29360ded02c7dc531",
+          "original_filenames": [
+            "gerdau-03.xml"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "data/news/study/gol.json",
+      "kind": "news",
+      "records": 640,
+      "bytes": 2779860,
+      "sha256": "5012b6c41c44c40a0da76ed6376bc526cf8549eccfad8847bed243834ea43b86",
+      "sources": [
+        {
+          "sha256": "a01579613a2ccd1011937699a52c9e8a36f3fbaeb2e73f113bbc9091243bc756",
+          "original_filenames": [
+            "gol-01.xml"
+          ]
+        },
+        {
+          "sha256": "c833e32ddb853246a09b4094bac18538baa263f7ff95ebf15f5fdb30f4efb653",
+          "original_filenames": [
+            "gol-02.xml"
+          ]
+        },
+        {
+          "sha256": "f955e217f23e069fb410f1ebaeb046b8c1255988ce04aff785527a7c45ef822b",
+          "original_filenames": [
+            "gol-03.xml"
+          ]
+        },
+        {
+          "sha256": "d81f0167d8611f1af94d645bc0cf4e202cb12d8166a4029bd87e78ce2ae0ecdd",
+          "original_filenames": [
+            "gol-04.xml"
+          ]
+        },
+        {
+          "sha256": "5b0fd216a7be9177a1d1ff754cb852650e24e33c34499e6d5c0192b70d94d935",
+          "original_filenames": [
+            "gol-05.xml"
+          ]
+        },
+        {
+          "sha256": "279284d9d92c804a57f975415cf8d106b1345a6d11d252228519cc4d31cffe37",
+          "original_filenames": [
+            "gol-06.xml"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "data/news/study/itau.json",
+      "kind": "news",
+      "records": 1525,
+      "bytes": 5546154,
+      "sha256": "6d6e408cfc166683f72632bbcc53ad27f2be2cffddfb366b8af723d5eb8657c6",
+      "sources": [
+        {
+          "sha256": "63bdb45b99b6c7c7ff4c5fe57974b6241e2f185672c865e29c9aceb9540d4c4d",
+          "original_filenames": [
+            "itaú-01.xml"
+          ]
+        },
+        {
+          "sha256": "87d9f25db69ee5e0d3bf50cec7ec5b7d948000b19e498f8ae9e30925b2ed9054",
+          "original_filenames": [
+            "itaú-02.xml"
+          ]
+        },
+        {
+          "sha256": "56f232ea8bc7c6a22dbc06d0ce1d9a36f5d4e7531790fb86b1cc7dc9af148e2d",
+          "original_filenames": [
+            "itaú-03.xml"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "data/news/study/klabin.json",
+      "kind": "news",
+      "records": 184,
+      "bytes": 702719,
+      "sha256": "02de0b022bda2d797d6e35fc371603e78e8299d94c5a92d87de5d4fe1a334d62",
+      "sources": [
+        {
+          "sha256": "f9af2e22d151cf4b3135525fb43780752ad5b8ddd801903593466b0206dd7394",
+          "original_filenames": [
+            "klabin-01.xml"
+          ]
+        },
+        {
+          "sha256": "4771e11e0cdce48dd534437d67987de8d4a92f5dbb83f2a8eb85e64802a32556",
+          "original_filenames": [
+            "klabin-02.xml"
+          ]
+        },
+        {
+          "sha256": "7660ff6209a7ffa37f71ff61448404191a8ae02f287488719b7ee9d8b8e0dee8",
+          "original_filenames": [
+            "klabin-03.xml"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "data/news/study/light.json",
+      "kind": "news",
+      "records": 53,
+      "bytes": 153036,
+      "sha256": "e1e24bf831fab474e53c547fcc953a1c614773b53d1b4705c724fdfd0aa70ccd",
+      "sources": [
+        {
+          "sha256": "cafa1bb8d8cc40a0e5f3dde27ec8a94823e78c7d4f668ecea5dad4deafbf744c",
+          "original_filenames": [
+            "light-01.xml"
+          ]
+        },
+        {
+          "sha256": "d6fee4d8a36cb147cd66aa81c60f26b74b9eadf04224ff0ca59b5cc7df075f93",
+          "original_filenames": [
+            "light-02.xml"
+          ]
+        },
+        {
+          "sha256": "e689aa75233746be70dcbe2317dd236c4d43a5041b6c2db6d555289df471e9d6",
+          "original_filenames": [
+            "light-03.xml"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "data/news/study/natura.json",
+      "kind": "news",
+      "records": 379,
+      "bytes": 1536734,
+      "sha256": "c9eadf2521a35d9ff69121f3e1e77d793d9deb2ceaecec5715bc6c65e7256d6c",
+      "sources": [
+        {
+          "sha256": "85f781803fefc4a5329600d69dffaa15c9f0c4e01d65cc3b47a38ab0e5813f3e",
+          "original_filenames": [
+            "natura-01.xml"
+          ]
+        },
+        {
+          "sha256": "7c09f3562ebd99bc33a61e0e94f41b7919fb6df7047530c062a70b2943c5d2a4",
+          "original_filenames": [
+            "natura-02.xml"
+          ]
+        },
+        {
+          "sha256": "95b3a23fa85b9430b98bcb925c1f08457b06ba08732bcbaec302f31c7ff57074",
+          "original_filenames": [
+            "natura-03.xml"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "data/news/study/net.json",
+      "kind": "news",
+      "records": 25,
+      "bytes": 98441,
+      "sha256": "9844455590d9272250b9d01410b87e7b91be2f5921332a8b595ea7617088c590",
+      "sources": [
+        {
+          "sha256": "9157d79d42312061b31d84a90d342e950b16eafe011720bc5f5740877f7b120c",
+          "original_filenames": [
+            "net-01.xml"
+          ]
+        },
+        {
+          "sha256": "318639d7eeddb763e4b4c849003edc20d2314a17b47f88cac709f0293d2fff01",
+          "original_filenames": [
+            "net-02.xml"
+          ]
+        },
+        {
+          "sha256": "494aa6f0ef4e2e0cc87a5cf198de1b98a106f1b5b77e3c7d1b8f3fa6e40c3243",
+          "original_filenames": [
+            "net-03.xml"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "data/news/study/petrobras.json",
+      "kind": "news",
+      "records": 5413,
+      "bytes": 20510692,
+      "sha256": "bca354a13a63e5fc2bba35e4fbf03ade3e2464c7557fffab672e855ae919fa27",
+      "sources": [
+        {
+          "sha256": "27ec0b5ece62f59428513efe32f2e6dfc1ed223cc0b0df3a577303e124676fd9",
+          "original_filenames": [
+            "petrobras-01.xml"
+          ]
+        },
+        {
+          "sha256": "4b80e1c23fd9094c827ac392425a6024fe0cafd07c009603039b6ba50dd3036a",
+          "original_filenames": [
+            "petrobras-02.xml"
+          ]
+        },
+        {
+          "sha256": "e23cd4985477c5140c852699deafd8ae951ddf56f16b26ca92fd8821fce5a695",
+          "original_filenames": [
+            "petrobras-03.xml"
+          ]
+        },
+        {
+          "sha256": "a5a0e4889b96b3146d11221099d16c08731d0f2de65ee5624aab076ce9271bea",
+          "original_filenames": [
+            "petrobras-04.xml"
+          ]
+        },
+        {
+          "sha256": "940d50f68f14cabe8d9606298eeccdedec75af7af5636b193d688a3db5fdcd93",
+          "original_filenames": [
+            "petrobras-05.xml"
+          ]
+        },
+        {
+          "sha256": "ce285f302739bb7b3c9539a883c3a73b251919edf71d12a95664f1348a03e816",
+          "original_filenames": [
+            "petrobras-06.xml"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "data/news/study/sabesp.json",
+      "kind": "news",
+      "records": 446,
+      "bytes": 1258504,
+      "sha256": "b5209d19fa81e166683b31a36808eecf42289e513f273292ad56121e278009e5",
+      "sources": [
+        {
+          "sha256": "a029429d73bbf725b7b0412025b1b9b0e5c6cd2aacec4574b2ad10a3ad57196c",
+          "original_filenames": [
+            "sabesp-01.xml"
+          ]
+        },
+        {
+          "sha256": "586850623f05cbde11c8c9d3384d2987a2610cce88b17128169f6897023cf84f",
+          "original_filenames": [
+            "sabesp-02.xml"
+          ]
+        },
+        {
+          "sha256": "b9c4b12f5188506b7d6bf2b6758aef5fdb9b13099e55ea27ba6ce21bce7989e0",
+          "original_filenames": [
+            "sabesp-03.xml"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "data/news/study/siderurgica-nacional.json",
+      "kind": "news",
+      "records": 159,
+      "bytes": 586568,
+      "sha256": "1ad57d90526828074a26cd834427440cc805a97e27174a89de832b880cc81a66",
+      "sources": [
+        {
+          "sha256": "2bf9741d78ca0350c11c3d3516889d75ec38a76faaa496968a9bb9783ccf6031",
+          "original_filenames": [
+            "siderúrgica nacional-01.xml"
+          ]
+        },
+        {
+          "sha256": "b7a0f9f1b8070992a9a3d0e2cacdb7d50fb3aa9d88aa9afd76c943b3ae87e433",
+          "original_filenames": [
+            "siderúrgica nacional-02.xml"
+          ]
+        },
+        {
+          "sha256": "a18c9c3ee866832f3a7adc10277d4d26ee8bf7b2c3c4a0d9b7d4bdb57583ebd4",
+          "original_filenames": [
+            "siderúrgica nacional-03.xml"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "data/news/study/souza-cruz.json",
+      "kind": "news",
+      "records": 82,
+      "bytes": 336008,
+      "sha256": "5ae3acf1b4838e7f715f6221647ac8b2ccaf9399e4f2b98aebed22b38fe2292f",
+      "sources": [
+        {
+          "sha256": "0b3721919cce94c3125332f53fba6773eac0385c701597272a384418a15cdf18",
+          "original_filenames": [
+            "souza cruz-01.xml"
+          ]
+        },
+        {
+          "sha256": "c6b096e0e97f14054517ea813d0a79ffaa0debdd1f22a566a817e569f1da57e5",
+          "original_filenames": [
+            "souza cruz-02.xml"
+          ]
+        },
+        {
+          "sha256": "01dd17272ec2d04499ef56dcd20245d856f465e03e4c42f7b3dd2a8a67a83458",
+          "original_filenames": [
+            "souza cruz-03.xml"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "data/news/study/tam.json",
+      "kind": "news",
+      "records": 899,
+      "bytes": 3562964,
+      "sha256": "af4e31f728c77355adedf1bd441eabd702f9206c85501bf8b7c325cdff7d5d43",
+      "sources": [
+        {
+          "sha256": "89f16321816bb2fa7c1d46447653bb5c5decd1207981e492da74edbb881268fd",
+          "original_filenames": [
+            "tam-01.xml"
+          ]
+        },
+        {
+          "sha256": "4e0dff42e73ce4e464651bc5843fb7b71e46c7dfe94507ed8e35d1f3f8618f25",
+          "original_filenames": [
+            "tam-02.xml"
+          ]
+        },
+        {
+          "sha256": "03cf61756f4db8900ca5fd8704fd8af19e461b04830cc2530ee4dcc4839134b1",
+          "original_filenames": [
+            "tam-03.xml"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "data/news/study/telesp.json",
+      "kind": "news",
+      "records": 98,
+      "bytes": 345387,
+      "sha256": "a9864007c71bd88ca5cbfd42385d54802c5ccb32e6f69703b4e56c89e3348c8e",
+      "sources": [
+        {
+          "sha256": "37a868ef95a9ff7272b8eaf1d791e56968d7d41166e858ed8fcb5e2dcdc8efd5",
+          "original_filenames": [
+            "telesp-01.xml"
+          ]
+        },
+        {
+          "sha256": "0532906875e04d9cf32f928486368d523b9e495b57d4a7b6c3be05b2612fdd97",
+          "original_filenames": [
+            "telesp-02.xml"
+          ]
+        },
+        {
+          "sha256": "29c0b2cbba4ad485b0ada264fd8753e93ef31c189c5d258a8b7f64e7bcbc90a9",
+          "original_filenames": [
+            "telesp-03.xml"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "data/news/study/tim.json",
+      "kind": "news",
+      "records": 1172,
+      "bytes": 4268619,
+      "sha256": "b87a7da991371323c7af9de3cce769a95d4884bc02a5dea2da87334c6fd3791a",
+      "sources": [
+        {
+          "sha256": "63d74cb48af87475be35068fb1b718cb95abbf7c031cee4eca3788f3cfeb4681",
+          "original_filenames": [
+            "tim-01.xml"
+          ]
+        },
+        {
+          "sha256": "4ad7d47ea71d44b043faf81694e9e98fc4a8fde7f561482a2ff53f8f6ab195a3",
+          "original_filenames": [
+            "tim-02.xml"
+          ]
+        },
+        {
+          "sha256": "6edb57ca72fab93872a6559895786eb8b2d0b339e6671e692a11b888f4fca59d",
+          "original_filenames": [
+            "tim-03.xml"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "data/news/study/usiminas.json",
+      "kind": "news",
+      "records": 562,
+      "bytes": 2482883,
+      "sha256": "20ee959f51f68ec10f64e4a9bbb1e556ef9b9d996e133e1b22277331a012f0e5",
+      "sources": [
+        {
+          "sha256": "b64f569ed31f5d551f9893c26a8e85f8226336649f0c8c2a100a32cce61cc469",
+          "original_filenames": [
+            "usiminas-01.xml"
+          ]
+        },
+        {
+          "sha256": "58b06dd44069a130f85854db9ee175494eeba2f740ac24cb275c1d7cb266ebdb",
+          "original_filenames": [
+            "usiminas-02.xml"
+          ]
+        },
+        {
+          "sha256": "4799cd664a3f894210cf06b186b37adc018543bc45565450524093cee836a13f",
+          "original_filenames": [
+            "usiminas-03.xml"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "data/news/study/vale-do-rio-doce.json",
+      "kind": "news",
+      "records": 147,
+      "bytes": 657373,
+      "sha256": "48ff10c4b131febe424a469c94f24e24858717ae7b2667d64053468d693b04de",
+      "sources": [
+        {
+          "sha256": "7f0c5d8d74ecd06c37c6abb51b8932a6758d72ceb0e4b461863108a80ddb33a7",
+          "original_filenames": [
+            "vale do rio doce-01.xml"
+          ]
+        },
+        {
+          "sha256": "240bc2dacff87490e94c13ec2bfabf0df3c2f095b038f1245352ee0afc1dee40",
+          "original_filenames": [
+            "vale do rio doce-02.xml"
+          ]
+        },
+        {
+          "sha256": "34f839745f1f651492d25bffcf95e56670c6d53d7a78b83588f7998054a78b31",
+          "original_filenames": [
+            "vale do rio doce-03.xml"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "data/news/study/vivo.json",
+      "kind": "news",
+      "records": 156,
+      "bytes": 564017,
+      "sha256": "1e8080af8d76da89b7bb96bdb612cdc2ea7787679e72d8b8595eac30090a0685",
+      "sources": [
+        {
+          "sha256": "7f68cbb4975eb3fd2ee15889fd557ec39a24839cc7a510bc51ba9cb95498c85c",
+          "original_filenames": [
+            "vivo-01.xml"
+          ]
+        },
+        {
+          "sha256": "73e113aa37c496fb99e82359bdab410637db780aa6cac67e346fdac4a8b570f1",
+          "original_filenames": [
+            "vivo-02.xml"
+          ]
+        },
+        {
+          "sha256": "8c9fd2c4e0ca6dd7070f6a4a76f520d4241e074b7354ba3b0955daf75a7f3ded",
+          "original_filenames": [
+            "vivo-03.xml"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "data/resources/company-selection.json",
+      "kind": "company_selection",
+      "records": 5,
+      "bytes": 89,
+      "sha256": "6f47e67f69b059042682e4f4dd9ab90aec9b5a04d371c6679e69dcbf8415581e",
+      "sources": [
+        {
+          "sha256": "e1a2c1b83795fffa997dacbfd23a1070554b62af85a4c69cd0a7091bae89f9b9",
+          "original_filenames": [
+            "selection.txt"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "data/resources/news-search-notes.json",
+      "kind": "search_notes",
+      "records": 41,
+      "bytes": 1861,
+      "sha256": "06f1818d6f395fb4dcccfb613e641528d18dde1f1075d712a457f3fc812e3b1e",
+      "sources": [
+        {
+          "sha256": "3d2d6f60c55c6b372e85d94506b21eaed35dfa5cd4bd68c300f67fae1d587329",
+          "original_filenames": [
+            "0lista.txt"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "data/resources/stopwords-program.json",
+      "kind": "stopwords",
+      "records": 259,
+      "bytes": 3371,
+      "sha256": "d417e9a0e10fcdba60b2df1e7a5f60e741ef3dcd9e1647db00a89f6268075e53",
+      "sources": [
+        {
+          "sha256": "030200fa51953c463c2edf310e16ddbda9e98afb87176aa17687de1ecde134d8",
+          "original_filenames": [
+            "stopwords.txt"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "data/resources/stopwords.json",
+      "kind": "stopwords",
+      "records": 258,
+      "bytes": 3362,
+      "sha256": "2c3b0ff2cc519ae198317adfa7b9c0a639cb0316f472be07cbd1f51b986b1215",
+      "sources": [
+        {
+          "sha256": "e05be9d0f732f15cb8259c9b3e03c9c31a86fbe821ccbc4ac113e4612f165ad6",
+          "original_filenames": [
+            "stopwords.txt"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "data/stocks/additional/BRFS3.json",
+      "kind": "stock_quotes",
+      "records": 7981,
+      "bytes": 442565,
+      "sha256": "d10f2db88d99bfbfbb496bdec5c01eb05ee1eea984d583e4f9f3a285d6580b46",
+      "sources": [
+        {
+          "sha256": "82e5c06e62d47ed9a3e6d82d50d69fbe709ea504bd8ea3e57ea34125f62bb3f9",
+          "original_filenames": [
+            "BRFS3.csv"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "data/stocks/additional/FIBR3.json",
+      "kind": "stock_quotes",
+      "records": 9388,
+      "bytes": 514250,
+      "sha256": "5d283074b4fe1b0e7035f88f48dd82010e91de7b5fce7173413899d84947e44c",
+      "sources": [
+        {
+          "sha256": "726909e836d5b4c09a2a6e8b06989369a2d90966e645474b52fccc3cf3eb1694",
+          "original_filenames": [
+            "FIBR3.csv"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "data/stocks/additional/TCSL4.json",
+      "kind": "stock_quotes",
+      "records": 10827,
+      "bytes": 583295,
+      "sha256": "00a7c115f92ab6511256a47e2a2642b79bf8509f655f72f4b00a8a6ea05cf303",
+      "sources": [
+        {
+          "sha256": "efa9107c11809bb93aab1755b8726266726b1db1a685337a25f7386e5129a0b6",
+          "original_filenames": [
+            "TCSL4.csv"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "data/stocks/additional/TNLP4.json",
+      "kind": "stock_quotes",
+      "records": 10787,
+      "bytes": 590918,
+      "sha256": "4723b196544714c07bb9e59f9f51dff40e0fe5aa40af64009ab32f834c096897",
+      "sources": [
+        {
+          "sha256": "35ab749d8231780fc62b15b505064585dab6cb9ce0f874dfed77736e22486c6b",
+          "original_filenames": [
+            "TNLP4.csv"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "data/stocks/additional/TRPL4.json",
+      "kind": "stock_quotes",
+      "records": 10453,
+      "bytes": 581320,
+      "sha256": "263967df8f66e84b944556da0ea03ed10565a158e17fd8a054f7a72754810801",
+      "sources": [
+        {
+          "sha256": "1c024d6c9efb6585ffc327ce17fb2121f9e037a0bab996159a9e1b7180faa00f",
+          "original_filenames": [
+            "TRPL4.csv"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "data/stocks/historical/PETR4.json",
+      "kind": "stock_quotes",
+      "records": 10831,
+      "bytes": 601757,
+      "sha256": "e73d31bbe314d2a1a9987af9047c9c5fa88120dbaed567542a5254e94fe6fdf2",
+      "sources": [
+        {
+          "sha256": "c7f7bb0f4d52890e56e83103e45e170d655325eca2a430e96f25a8afdb7ac964",
+          "original_filenames": [
+            "PETR4.csv"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "data/stocks/study/ALLL11.json",
+      "kind": "stock_quotes",
+      "records": 10838,
+      "bytes": 594235,
+      "sha256": "e60eb16942364785c3d53744f52d2d496cca33042aa04bc2032af82c4cc6280f",
+      "sources": [
+        {
+          "sha256": "46d2dbd0597edb2b89f6d00c9effe094d3ac1e20b723570d01fc066906a0b09a",
+          "original_filenames": [
+            "ALLL11.csv"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "data/stocks/study/AMBV4.json",
+      "kind": "stock_quotes",
+      "records": 10662,
+      "bytes": 600968,
+      "sha256": "d2ed5470f299468050d012219df3b74ee6c3c28f3b4e92f580dd110397734913",
+      "sources": [
+        {
+          "sha256": "a1548635bf7a3f80c8e74c63281f44f57ce2fa3aa4a84a3c715bfea8df8c15d7",
+          "original_filenames": [
+            "AMBV4.csv"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "data/stocks/study/BBDC4.json",
+      "kind": "stock_quotes",
+      "records": 10827,
+      "bytes": 604547,
+      "sha256": "7409f2ad392e16f8ee2f56b49067a9763847f31e30da65a35353669f1652f4ee",
+      "sources": [
+        {
+          "sha256": "c79ee66727854eedcfad2f6e67a76287b49c08574757d27a575a7af1135aaf2c",
+          "original_filenames": [
+            "BBDC4.csv"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "data/stocks/study/BRKM5.json",
+      "kind": "stock_quotes",
+      "records": 10768,
+      "bytes": 590421,
+      "sha256": "7525d9428bb0a3840973429d6f049a0cc0d099fba74545cefdd071ad7697593e",
+      "sources": [
+        {
+          "sha256": "9b300c80f5535c5efb64f1274d4e832bb92ee47a39691b55cc9615b8c5ac11f7",
+          "original_filenames": [
+            "BRKM5.csv"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "data/stocks/study/BRTO4.json",
+      "kind": "stock_quotes",
+      "records": 10533,
+      "bytes": 577337,
+      "sha256": "b77a98860960f89d396f510aafe4ef4c3c9f61925ef17c34cb7da9cba1fcd197",
+      "sources": [
+        {
+          "sha256": "f8c11f44081595182b308a5e917f0720737968e5c0dd053fd59ca15e4d131a83",
+          "original_filenames": [
+            "BRTO4.csv"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "data/stocks/study/CESP6.json",
+      "kind": "stock_quotes",
+      "records": 10813,
+      "bytes": 598147,
+      "sha256": "02129cf5d30b80cfdbb75d4ab680807741a54d19d5c9da5bab2cae0cbd4f9ae1",
+      "sources": [
+        {
+          "sha256": "abec6b4733237bbb8665a2f108a633f356243e0b50b124570ca9b31eec414ffe",
+          "original_filenames": [
+            "CESP6.csv"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "data/stocks/study/CGAS5.json",
+      "kind": "stock_quotes",
+      "records": 7166,
+      "bytes": 399099,
+      "sha256": "cf6225b763b8ad62846664487535cb095b258dfcb29741864b5641b7c9c7b50d",
+      "sources": [
+        {
+          "sha256": "5b931eb093bb4cdd2f55906a59d45c2c0e9dad1664064e4cf04dd90e1fb71e34",
+          "original_filenames": [
+            "CGAS5.csv"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "data/stocks/study/CLSC6.json",
+      "kind": "stock_quotes",
+      "records": 8052,
+      "bytes": 440871,
+      "sha256": "0079f148118ade7822719b5569034d4931ce0d30585f45ddb709baafccd0d692",
+      "sources": [
+        {
+          "sha256": "284205047db3821bd6b2943cceb1ec02cb5128c31b9436d19adef7b226f45e79",
+          "original_filenames": [
+            "CLSC6.csv"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "data/stocks/study/CMIG3.json",
+      "kind": "stock_quotes",
+      "records": 6052,
+      "bytes": 331002,
+      "sha256": "72c7bb35576e1a70cc26a9493e0cdb5d7ed96d92d183c9b91264b83dcf5ee17e",
+      "sources": [
+        {
+          "sha256": "97a4e037547137d347bccf292db86c251d9f547699379879fec2b8844ee3172e",
+          "original_filenames": [
+            "CMIG3.csv"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "data/stocks/study/CPLE6.json",
+      "kind": "stock_quotes",
+      "records": 10726,
+      "bytes": 593178,
+      "sha256": "aafebb97abebf91c0044b107b258ab22ae73b377b208780d5ebfaf439c66ce0d",
+      "sources": [
+        {
+          "sha256": "b59b75e18c1672b16b3a4214798ed937134007ef7222f3cb5189611b171e74ed",
+          "original_filenames": [
+            "CPLE6.csv"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "data/stocks/study/CRUZ3.json",
+      "kind": "stock_quotes",
+      "records": 10590,
+      "bytes": 588094,
+      "sha256": "ea676dfb9f9a5d1f14ec1a59a046afff884099bdfcd38f410b138c8c05f33077",
+      "sources": [
+        {
+          "sha256": "cb7a01bdd2bb006645f5c27ce68dde911899281133ca952d336095737a7ca635",
+          "original_filenames": [
+            "CRUZ3.csv"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "data/stocks/study/CSAN3.json",
+      "kind": "stock_quotes",
+      "records": 10808,
+      "bytes": 592338,
+      "sha256": "bcc8d1d27c7feeb1037db4a0503c4d8ee52eb416c9fc6fda8cd1ba1a77f85970",
+      "sources": [
+        {
+          "sha256": "139c4f43577635569ad724197ef591c5d11394627eba257cb0b628358bf75f96",
+          "original_filenames": [
+            "CSAN3.csv"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "data/stocks/study/CSNA3.json",
+      "kind": "stock_quotes",
+      "records": 10836,
+      "bytes": 601504,
+      "sha256": "5d6fd34f7708b06a4667304a87f918ec9183dfda477906f8cac4753f3cede1db",
+      "sources": [
+        {
+          "sha256": "595bb7c3c166b7c7da0d7b1b11052df04ca70e924100b2f49589afdb4c050461",
+          "original_filenames": [
+            "CSNA3.csv"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "data/stocks/study/CYRE3.json",
+      "kind": "stock_quotes",
+      "records": 10825,
+      "bytes": 593350,
+      "sha256": "8458652c47996aa826779b1a6611fd15f95e7cddcb00a152f002c36afa4e0afc",
+      "sources": [
+        {
+          "sha256": "2454799fc2fb5f84e8be3796b84cdc1707d4702623e429312967efb1d4326566",
+          "original_filenames": [
+            "CYRE3.csv"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "data/stocks/study/ELET6.json",
+      "kind": "stock_quotes",
+      "records": 10807,
+      "bytes": 602190,
+      "sha256": "3bdd1ee43ab863964cdcb813c77c05af8dd42dce10bd4bb8f16aa918faf2f17f",
+      "sources": [
+        {
+          "sha256": "c1134d22b755f74c1a7660fb8073ec02f665442db133a703f0590933b0e811b0",
+          "original_filenames": [
+            "ELET6.csv"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "data/stocks/study/ELPL6.json",
+      "kind": "stock_quotes",
+      "records": 10794,
+      "bytes": 599160,
+      "sha256": "e58d2930e3e6c24bd98cbc674fa5c198c9e7cd0fb3421918265e9772662cceb0",
+      "sources": [
+        {
+          "sha256": "e1a9800af5d6341cb8fa54c3e36c159ecfd0621245b72e3d4e6153447045dd29",
+          "original_filenames": [
+            "ELPL6.csv"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "data/stocks/study/EMBR3.json",
+      "kind": "stock_quotes",
+      "records": 10829,
+      "bytes": 592918,
+      "sha256": "406900dae028d0e60f478eb18b8aea1578387339d804332b0aa9bba3bf02497f",
+      "sources": [
+        {
+          "sha256": "2ca6621e5bb12faaa04283987cadb4ff53bb7ac5b1c0c5a1d30c59df8f6b1823",
+          "original_filenames": [
+            "EMBR3.csv"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "data/stocks/study/GGBR4.json",
+      "kind": "stock_quotes",
+      "records": 10803,
+      "bytes": 600378,
+      "sha256": "0192d25f935b64ba7b4b9cade5733c4189221321164ed2b5fe084cde3c3c211f",
+      "sources": [
+        {
+          "sha256": "c090bff8012d1561d467d0e94c0ca02d89af14682cf3a81c592f01c6b7a3b092",
+          "original_filenames": [
+            "GGBR4.csv"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "data/stocks/study/GOLL4.json",
+      "kind": "stock_quotes",
+      "records": 10805,
+      "bytes": 592298,
+      "sha256": "e8ad569a4a6d89ffc59f2a59efe04f8a6d75776b035913e247d0b1e66766d061",
+      "sources": [
+        {
+          "sha256": "2637e0e0f29f97fe8fccffcb2643cea40380d90b0239fc588c30f35630779f1e",
+          "original_filenames": [
+            "GOLL4.csv"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "data/stocks/study/ITUB4.json",
+      "kind": "stock_quotes",
+      "records": 10815,
+      "bytes": 604245,
+      "sha256": "f04ad49286751c37e57dcfbbffc5b11a889fb327f45a32013982eedd9385f046",
+      "sources": [
+        {
+          "sha256": "17f16ecae1afb9997c2dfdf31f35a1700ee8431836f172ea48534ac73d015987",
+          "original_filenames": [
+            "ITUB4.csv"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "data/stocks/study/KLBN4.json",
+      "kind": "stock_quotes",
+      "records": 10804,
+      "bytes": 587287,
+      "sha256": "fa45794ad6a5491c9686c74e0a6f8ad864cad2e9ab1faabc31573bb6d38e5d68",
+      "sources": [
+        {
+          "sha256": "8a68c856e3915da8e91557a036ad88b9815431d99a6ba21ec16506d0e6b049e1",
+          "original_filenames": [
+            "KLBN4.csv"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "data/stocks/study/LIGT3.json",
+      "kind": "stock_quotes",
+      "records": 10738,
+      "bytes": 593698,
+      "sha256": "0a81d8429a26be35c4d71658b26372f0253598fbbb7d00da267891b28dbb8311",
+      "sources": [
+        {
+          "sha256": "40b8c9d75176f0145b3b03ac9caec97a9cdb0e0aa52eef0f008ab0f48560a7d4",
+          "original_filenames": [
+            "LIGT3.csv"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "data/stocks/study/NATU3.json",
+      "kind": "stock_quotes",
+      "records": 10811,
+      "bytes": 592477,
+      "sha256": "d0c8766e8f85327c88ff8b437dc318d56e98d4e2a9c67801396f5a0c2e54dc14",
+      "sources": [
+        {
+          "sha256": "3a0c864244e0613b5c1e9a34f1848bc35fa1ce818443aa476caf643296a658af",
+          "original_filenames": [
+            "NATU3.csv"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "data/stocks/study/NETC4.json",
+      "kind": "stock_quotes",
+      "records": 10820,
+      "bytes": 592880,
+      "sha256": "ad92cbfadcae1efc0dac5ec5eec8b1653bad35c072f567111e650c94ba8f10d0",
+      "sources": [
+        {
+          "sha256": "441d0112b4ffdc39a214cd22b0501b4f92891182d4920b378797bb6a50324c6c",
+          "original_filenames": [
+            "NETC4.csv"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "data/stocks/study/PETR4.json",
+      "kind": "stock_quotes",
+      "records": 10831,
+      "bytes": 601745,
+      "sha256": "3cd28632006a069fa83e30717074238d6f400c2ce8fd945066b254313c683b1f",
+      "sources": [
+        {
+          "sha256": "d7b76ddf4ca7d0d750780f031a07a4789448889dd888ef64edcb98b6700b0a13",
+          "original_filenames": [
+            "PETR4.csv"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "data/stocks/study/SBSP3.json",
+      "kind": "stock_quotes",
+      "records": 10568,
+      "bytes": 585307,
+      "sha256": "ebb2eefef017c3298aa3e7d7fe49736c897727085771939090f70dfc6376dd77",
+      "sources": [
+        {
+          "sha256": "e3cbb831cf132adb48ecd22a01eada1a8ee5ac709e039f66f0ce7987036603ea",
+          "original_filenames": [
+            "SBSP3.csv"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "data/stocks/study/TAMM4.json",
+      "kind": "stock_quotes",
+      "records": 10798,
+      "bytes": 600749,
+      "sha256": "253d970888e23c5381489aa1191debd18fee0cf6e522f9a73918f291fc5c9332",
+      "sources": [
+        {
+          "sha256": "bb6e65e531e2d7e95e1b2cb1969aa2f0ddee3232ade254b30e91245e5f96a398",
+          "original_filenames": [
+            "TAMM4.csv"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "data/stocks/study/TCSL3.json",
+      "kind": "stock_quotes",
+      "records": 9316,
+      "bytes": 501873,
+      "sha256": "9375ea0e0be4f983f873a13b8c67ed0bd63c2f8b51809c0c92a9f2fbed1005db",
+      "sources": [
+        {
+          "sha256": "7ac14bdaa08a4dcfb5259fc38f418cde26ef52d622c5a9a3eb87119bf67169f6",
+          "original_filenames": [
+            "TCSL3.csv"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "data/stocks/study/TLPP4.json",
+      "kind": "stock_quotes",
+      "records": 9405,
+      "bytes": 522780,
+      "sha256": "9ecfa9d4aab6ed8ba52da0ebc11b2aeedfd3f724e877b780df6b4b642dbeb083",
+      "sources": [
+        {
+          "sha256": "fdd907a3d569b70058daf8f7ae1012cd2b98d6365b532899f0f894711e2c5ec3",
+          "original_filenames": [
+            "TLPP4.csv"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "data/stocks/study/USIM5.json",
+      "kind": "stock_quotes",
+      "records": 10825,
+      "bytes": 601653,
+      "sha256": "b74313b02814529d3990840801a38a14165aa6ccf00132d10df4b58027b67cc5",
+      "sources": [
+        {
+          "sha256": "d5d5ec36e2454831cb3bb084f7de02bb6aeac05be1c00e4d7386797ef52298d0",
+          "original_filenames": [
+            "USIM5.csv"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "data/stocks/study/VALE5.json",
+      "kind": "stock_quotes",
+      "records": 10832,
+      "bytes": 598010,
+      "sha256": "4c2bff5f07e99fc90ab7e54e99e249f285f0a4d92abdcc2a4416876fc6169442",
+      "sources": [
+        {
+          "sha256": "ddca5b09d2f90f95809598dcb572062c7ca5e24463ad7d4dfeb74fb8ecb2f971",
+          "original_filenames": [
+            "VALE5.csv"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "data/stocks/study/VIVO4.json",
+      "kind": "stock_quotes",
+      "records": 10652,
+      "bytes": 591804,
+      "sha256": "062bedf6d2d6cbd56c29c1d2138307534771b7a182ee2a45351d02575573ba4d",
+      "sources": [
+        {
+          "sha256": "3e0d976e80042d6ed8140c891ec2854494ba606e8f944f934c184d6b149cd384",
+          "original_filenames": [
+            "VIVO4.csv"
+          ]
+        }
+      ]
+    }
+  ]
+}

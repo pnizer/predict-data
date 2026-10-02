@@ -1,0 +1,306 @@
+[
+  {
+    "ticker": "ALLL11",
+    "category": "study",
+    "path": "data/stocks/study/ALLL11.json",
+    "records": 10838,
+    "first": "2009-08-14T10:05",
+    "last": "2010-02-26T17:05"
+  },
+  {
+    "ticker": "AMBV4",
+    "category": "study",
+    "path": "data/stocks/study/AMBV4.json",
+    "records": 10662,
+    "first": "2009-08-14T10:15",
+    "last": "2010-02-26T17:05"
+  },
+  {
+    "ticker": "BBDC4",
+    "category": "study",
+    "path": "data/stocks/study/BBDC4.json",
+    "records": 10827,
+    "first": "2009-08-14T10:05",
+    "last": "2010-02-26T17:10"
+  },
+  {
+    "ticker": "BRFS3",
+    "category": "additional",
+    "path": "data/stocks/additional/BRFS3.json",
+    "records": 7981,
+    "first": "2009-10-01T10:05",
+    "last": "2010-02-26T17:10"
+  },
+  {
+    "ticker": "BRKM5",
+    "category": "study",
+    "path": "data/stocks/study/BRKM5.json",
+    "records": 10768,
+    "first": "2009-08-14T10:05",
+    "last": "2010-02-26T17:05"
+  },
+  {
+    "ticker": "BRTO4",
+    "category": "study",
+    "path": "data/stocks/study/BRTO4.json",
+    "records": 10533,
+    "first": "2009-08-14T10:15",
+    "last": "2010-02-26T17:10"
+  },
+  {
+    "ticker": "CESP6",
+    "category": "study",
+    "path": "data/stocks/study/CESP6.json",
+    "records": 10813,
+    "first": "2009-08-14T10:15",
+    "last": "2010-02-26T17:10"
+  },
+  {
+    "ticker": "CGAS5",
+    "category": "study",
+    "path": "data/stocks/study/CGAS5.json",
+    "records": 7166,
+    "first": "2009-08-14T10:05",
+    "last": "2010-02-26T17:05"
+  },
+  {
+    "ticker": "CLSC6",
+    "category": "study",
+    "path": "data/stocks/study/CLSC6.json",
+    "records": 8052,
+    "first": "2009-08-14T10:10",
+    "last": "2010-02-26T17:05"
+  },
+  {
+    "ticker": "CMIG3",
+    "category": "study",
+    "path": "data/stocks/study/CMIG3.json",
+    "records": 6052,
+    "first": "2009-08-14T10:50",
+    "last": "2010-02-26T17:10"
+  },
+  {
+    "ticker": "CPLE6",
+    "category": "study",
+    "path": "data/stocks/study/CPLE6.json",
+    "records": 10726,
+    "first": "2009-08-14T10:10",
+    "last": "2010-02-26T17:05"
+  },
+  {
+    "ticker": "CRUZ3",
+    "category": "study",
+    "path": "data/stocks/study/CRUZ3.json",
+    "records": 10590,
+    "first": "2009-08-14T10:05",
+    "last": "2010-02-26T17:10"
+  },
+  {
+    "ticker": "CSAN3",
+    "category": "study",
+    "path": "data/stocks/study/CSAN3.json",
+    "records": 10808,
+    "first": "2009-08-14T10:05",
+    "last": "2010-02-26T17:10"
+  },
+  {
+    "ticker": "CSNA3",
+    "category": "study",
+    "path": "data/stocks/study/CSNA3.json",
+    "records": 10836,
+    "first": "2009-08-14T10:05",
+    "last": "2010-02-26T17:10"
+  },
+  {
+    "ticker": "CYRE3",
+    "category": "study",
+    "path": "data/stocks/study/CYRE3.json",
+    "records": 10825,
+    "first": "2009-08-14T10:10",
+    "last": "2010-02-26T17:10"
+  },
+  {
+    "ticker": "ELET6",
+    "category": "study",
+    "path": "data/stocks/study/ELET6.json",
+    "records": 10807,
+    "first": "2009-08-14T10:05",
+    "last": "2010-02-26T17:10"
+  },
+  {
+    "ticker": "ELPL6",
+    "category": "study",
+    "path": "data/stocks/study/ELPL6.json",
+    "records": 10794,
+    "first": "2009-08-14T10:10",
+    "last": "2010-02-26T17:10"
+  },
+  {
+    "ticker": "EMBR3",
+    "category": "study",
+    "path": "data/stocks/study/EMBR3.json",
+    "records": 10829,
+    "first": "2009-08-14T10:05",
+    "last": "2010-02-26T17:10"
+  },
+  {
+    "ticker": "FIBR3",
+    "category": "additional",
+    "path": "data/stocks/additional/FIBR3.json",
+    "records": 9388,
+    "first": "2009-09-09T10:05",
+    "last": "2010-02-26T17:10"
+  },
+  {
+    "ticker": "GGBR4",
+    "category": "study",
+    "path": "data/stocks/study/GGBR4.json",
+    "records": 10803,
+    "first": "2009-08-14T10:05",
+    "last": "2010-02-26T17:10"
+  },
+  {
+    "ticker": "GOLL4",
+    "category": "study",
+    "path": "data/stocks/study/GOLL4.json",
+    "records": 10805,
+    "first": "2009-08-14T10:05",
+    "last": "2010-02-26T17:10"
+  },
+  {
+    "ticker": "ITUB4",
+    "category": "study",
+    "path": "data/stocks/study/ITUB4.json",
+    "records": 10815,
+    "first": "2009-08-14T10:05",
+    "last": "2010-02-26T17:10"
+  },
+  {
+    "ticker": "KLBN4",
+    "category": "study",
+    "path": "data/stocks/study/KLBN4.json",
+    "records": 10804,
+    "first": "2009-08-14T10:05",
+    "last": "2010-02-26T17:10"
+  },
+  {
+    "ticker": "LIGT3",
+    "category": "study",
+    "path": "data/stocks/study/LIGT3.json",
+    "records": 10738,
+    "first": "2009-08-14T10:05",
+    "last": "2010-02-26T17:10"
+  },
+  {
+    "ticker": "NATU3",
+    "category": "study",
+    "path": "data/stocks/study/NATU3.json",
+    "records": 10811,
+    "first": "2009-08-14T10:05",
+    "last": "2010-02-26T17:10"
+  },
+  {
+    "ticker": "NETC4",
+    "category": "study",
+    "path": "data/stocks/study/NETC4.json",
+    "records": 10820,
+    "first": "2009-08-14T10:05",
+    "last": "2010-02-26T17:10"
+  },
+  {
+    "ticker": "PETR4",
+    "category": "study",
+    "path": "data/stocks/study/PETR4.json",
+    "records": 10831,
+    "first": "2009-08-14T10:05",
+    "last": "2010-02-26T17:10"
+  },
+  {
+    "ticker": "SBSP3",
+    "category": "study",
+    "path": "data/stocks/study/SBSP3.json",
+    "records": 10568,
+    "first": "2009-08-14T10:05",
+    "last": "2010-02-26T17:10"
+  },
+  {
+    "ticker": "TAMM4",
+    "category": "study",
+    "path": "data/stocks/study/TAMM4.json",
+    "records": 10798,
+    "first": "2009-08-14T10:10",
+    "last": "2010-02-26T17:10"
+  },
+  {
+    "ticker": "TCSL3",
+    "category": "study",
+    "path": "data/stocks/study/TCSL3.json",
+    "records": 9316,
+    "first": "2009-08-14T10:05",
+    "last": "2010-02-26T17:10"
+  },
+  {
+    "ticker": "TCSL4",
+    "category": "additional",
+    "path": "data/stocks/additional/TCSL4.json",
+    "records": 10827,
+    "first": "2009-08-14T10:05",
+    "last": "2010-02-26T17:10"
+  },
+  {
+    "ticker": "TLPP4",
+    "category": "study",
+    "path": "data/stocks/study/TLPP4.json",
+    "records": 9405,
+    "first": "2009-08-14T10:10",
+    "last": "2010-02-26T17:10"
+  },
+  {
+    "ticker": "TNLP4",
+    "category": "additional",
+    "path": "data/stocks/additional/TNLP4.json",
+    "records": 10787,
+    "first": "2009-08-14T10:05",
+    "last": "2010-02-26T17:10"
+  },
+  {
+    "ticker": "TRPL4",
+    "category": "additional",
+    "path": "data/stocks/additional/TRPL4.json",
+    "records": 10453,
+    "first": "2009-08-14T10:05",
+    "last": "2010-02-26T17:10"
+  },
+  {
+    "ticker": "USIM5",
+    "category": "study",
+    "path": "data/stocks/study/USIM5.json",
+    "records": 10825,
+    "first": "2009-08-14T10:05",
+    "last": "2010-02-26T17:10"
+  },
+  {
+    "ticker": "VALE5",
+    "category": "study",
+    "path": "data/stocks/study/VALE5.json",
+    "records": 10832,
+    "first": "2009-08-14T10:05",
+    "last": "2010-02-26T17:10"
+  },
+  {
+    "ticker": "VIVO4",
+    "category": "study",
+    "path": "data/stocks/study/VIVO4.json",
+    "records": 10652,
+    "first": "2009-08-14T10:20",
+    "last": "2010-02-26T17:10"
+  },
+  {
+    "ticker": "PETR4",
+    "category": "historical",
+    "path": "data/stocks/historical/PETR4.json",
+    "records": 10831,
+    "first": "2009-08-14T10:05",
+    "last": "2010-02-26T17:10"
+  }
+]

@@ -1,0 +1,322 @@
+[
+  {
+    "company": "ALL",
+    "news_prefix": "all",
+    "ticker": "ALLL11",
+    "collected": 62,
+    "legacy_filtered": 6,
+    "stock_quotes": 10838,
+    "news_path": "data/news/study/all.json",
+    "stock_path": "data/stocks/study/ALLL11.json"
+  },
+  {
+    "company": "Ambev",
+    "news_prefix": "ambev",
+    "ticker": "AMBV4",
+    "collected": 212,
+    "legacy_filtered": 37,
+    "stock_quotes": 10662,
+    "news_path": "data/news/study/ambev.json",
+    "stock_path": "data/stocks/study/AMBV4.json"
+  },
+  {
+    "company": "Bradesco",
+    "news_prefix": "bradesco",
+    "ticker": "BBDC4",
+    "collected": 1472,
+    "legacy_filtered": 216,
+    "stock_quotes": 10827,
+    "news_path": "data/news/study/bradesco.json",
+    "stock_path": "data/stocks/study/BBDC4.json"
+  },
+  {
+    "company": "Brasil Telecom",
+    "news_prefix": "brasil telecom",
+    "ticker": "BRTO4",
+    "collected": 484,
+    "legacy_filtered": 48,
+    "stock_quotes": 10533,
+    "news_path": "data/news/study/brasil-telecom.json",
+    "stock_path": "data/stocks/study/BRTO4.json"
+  },
+  {
+    "company": "Braskem",
+    "news_prefix": "braskem",
+    "ticker": "BRKM5",
+    "collected": 215,
+    "legacy_filtered": 37,
+    "stock_quotes": 10768,
+    "news_path": "data/news/study/braskem.json",
+    "stock_path": "data/stocks/study/BRKM5.json"
+  },
+  {
+    "company": "Celesc",
+    "news_prefix": "celesc",
+    "ticker": "CLSC6",
+    "collected": 79,
+    "legacy_filtered": 20,
+    "stock_quotes": 8052,
+    "news_path": "data/news/study/celesc.json",
+    "stock_path": "data/stocks/study/CLSC6.json"
+  },
+  {
+    "company": "Cemig",
+    "news_prefix": "cemig",
+    "ticker": "CMIG3",
+    "collected": 184,
+    "legacy_filtered": 31,
+    "stock_quotes": 6052,
+    "news_path": "data/news/study/cemig.json",
+    "stock_path": "data/stocks/study/CMIG3.json"
+  },
+  {
+    "company": "Cesp",
+    "news_prefix": "cesp",
+    "ticker": "CESP6",
+    "collected": 99,
+    "legacy_filtered": 18,
+    "stock_quotes": 10813,
+    "news_path": "data/news/study/cesp.json",
+    "stock_path": "data/stocks/study/CESP6.json"
+  },
+  {
+    "company": "Comgas",
+    "news_prefix": "comgas",
+    "ticker": "CGAS5",
+    "collected": 71,
+    "legacy_filtered": 20,
+    "stock_quotes": 7166,
+    "news_path": "data/news/study/comgas.json",
+    "stock_path": "data/stocks/study/CGAS5.json"
+  },
+  {
+    "company": "Copel",
+    "news_prefix": "copel",
+    "ticker": "CPLE6",
+    "collected": 97,
+    "legacy_filtered": 31,
+    "stock_quotes": 10726,
+    "news_path": "data/news/study/copel.json",
+    "stock_path": "data/stocks/study/CPLE6.json"
+  },
+  {
+    "company": "Cosan",
+    "news_prefix": "cosan",
+    "ticker": "CSAN3",
+    "collected": 212,
+    "legacy_filtered": 31,
+    "stock_quotes": 10808,
+    "news_path": "data/news/study/cosan.json",
+    "stock_path": "data/stocks/study/CSAN3.json"
+  },
+  {
+    "company": "Cyrela",
+    "news_prefix": "cyrela",
+    "ticker": "CYRE3",
+    "collected": 257,
+    "legacy_filtered": 49,
+    "stock_quotes": 10825,
+    "news_path": "data/news/study/cyrela.json",
+    "stock_path": "data/stocks/study/CYRE3.json"
+  },
+  {
+    "company": "Eletrobras",
+    "news_prefix": "eletrobras",
+    "ticker": "ELET6",
+    "collected": 535,
+    "legacy_filtered": 64,
+    "stock_quotes": 10807,
+    "news_path": "data/news/study/eletrobras.json",
+    "stock_path": "data/stocks/study/ELET6.json"
+  },
+  {
+    "company": "Eletropaulo",
+    "news_prefix": "eletropaulo",
+    "ticker": "ELPL6",
+    "collected": 348,
+    "legacy_filtered": 48,
+    "stock_quotes": 10794,
+    "news_path": "data/news/study/eletropaulo.json",
+    "stock_path": "data/stocks/study/ELPL6.json"
+  },
+  {
+    "company": "Embraer",
+    "news_prefix": "embraer",
+    "ticker": "EMBR3",
+    "collected": 661,
+    "legacy_filtered": 108,
+    "stock_quotes": 10829,
+    "news_path": "data/news/study/embraer.json",
+    "stock_path": "data/stocks/study/EMBR3.json"
+  },
+  {
+    "company": "Gerdau",
+    "news_prefix": "gerdau",
+    "ticker": "GGBR4",
+    "collected": 610,
+    "legacy_filtered": 81,
+    "stock_quotes": 10803,
+    "news_path": "data/news/study/gerdau.json",
+    "stock_path": "data/stocks/study/GGBR4.json"
+  },
+  {
+    "company": "Gol",
+    "news_prefix": "gol",
+    "ticker": "GOLL4",
+    "collected": 640,
+    "legacy_filtered": 99,
+    "stock_quotes": 10805,
+    "news_path": "data/news/study/gol.json",
+    "stock_path": "data/stocks/study/GOLL4.json"
+  },
+  {
+    "company": "Itaú",
+    "news_prefix": "itaú",
+    "ticker": "ITUB4",
+    "collected": 1525,
+    "legacy_filtered": 201,
+    "stock_quotes": 10815,
+    "news_path": "data/news/study/itau.json",
+    "stock_path": "data/stocks/study/ITUB4.json"
+  },
+  {
+    "company": "Klabin",
+    "news_prefix": "klabin",
+    "ticker": "KLBN4",
+    "collected": 184,
+    "legacy_filtered": 28,
+    "stock_quotes": 10804,
+    "news_path": "data/news/study/klabin.json",
+    "stock_path": "data/stocks/study/KLBN4.json"
+  },
+  {
+    "company": "Light",
+    "news_prefix": "light",
+    "ticker": "LIGT3",
+    "collected": 53,
+    "legacy_filtered": 17,
+    "stock_quotes": 10738,
+    "news_path": "data/news/study/light.json",
+    "stock_path": "data/stocks/study/LIGT3.json"
+  },
+  {
+    "company": "Natura",
+    "news_prefix": "natura",
+    "ticker": "NATU3",
+    "collected": 379,
+    "legacy_filtered": 59,
+    "stock_quotes": 10811,
+    "news_path": "data/news/study/natura.json",
+    "stock_path": "data/stocks/study/NATU3.json"
+  },
+  {
+    "company": "Net",
+    "news_prefix": "net",
+    "ticker": "NETC4",
+    "collected": 25,
+    "legacy_filtered": 4,
+    "stock_quotes": 10820,
+    "news_path": "data/news/study/net.json",
+    "stock_path": "data/stocks/study/NETC4.json"
+  },
+  {
+    "company": "Petrobras",
+    "news_prefix": "petrobras",
+    "ticker": "PETR4",
+    "collected": 5413,
+    "legacy_filtered": 761,
+    "stock_quotes": 10831,
+    "news_path": "data/news/study/petrobras.json",
+    "stock_path": "data/stocks/study/PETR4.json"
+  },
+  {
+    "company": "Sabesp",
+    "news_prefix": "sabesp",
+    "ticker": "SBSP3",
+    "collected": 446,
+    "legacy_filtered": 91,
+    "stock_quotes": 10568,
+    "news_path": "data/news/study/sabesp.json",
+    "stock_path": "data/stocks/study/SBSP3.json"
+  },
+  {
+    "company": "Siderúrgica Nacional",
+    "news_prefix": "siderúrgica nacional",
+    "ticker": "CSNA3",
+    "collected": 159,
+    "legacy_filtered": 29,
+    "stock_quotes": 10836,
+    "news_path": "data/news/study/siderurgica-nacional.json",
+    "stock_path": "data/stocks/study/CSNA3.json"
+  },
+  {
+    "company": "Souza Cruz",
+    "news_prefix": "souza cruz",
+    "ticker": "CRUZ3",
+    "collected": 82,
+    "legacy_filtered": 9,
+    "stock_quotes": 10590,
+    "news_path": "data/news/study/souza-cruz.json",
+    "stock_path": "data/stocks/study/CRUZ3.json"
+  },
+  {
+    "company": "Tam",
+    "news_prefix": "tam",
+    "ticker": "TAMM4",
+    "collected": 899,
+    "legacy_filtered": 143,
+    "stock_quotes": 10798,
+    "news_path": "data/news/study/tam.json",
+    "stock_path": "data/stocks/study/TAMM4.json"
+  },
+  {
+    "company": "Telesp",
+    "news_prefix": "telesp",
+    "ticker": "TLPP4",
+    "collected": 98,
+    "legacy_filtered": 35,
+    "stock_quotes": 9405,
+    "news_path": "data/news/study/telesp.json",
+    "stock_path": "data/stocks/study/TLPP4.json"
+  },
+  {
+    "company": "Tim",
+    "news_prefix": "tim",
+    "ticker": "TCSL3",
+    "collected": 1172,
+    "legacy_filtered": 148,
+    "stock_quotes": 9316,
+    "news_path": "data/news/study/tim.json",
+    "stock_path": "data/stocks/study/TCSL3.json"
+  },
+  {
+    "company": "Usiminas",
+    "news_prefix": "usiminas",
+    "ticker": "USIM5",
+    "collected": 562,
+    "legacy_filtered": 51,
+    "stock_quotes": 10825,
+    "news_path": "data/news/study/usiminas.json",
+    "stock_path": "data/stocks/study/USIM5.json"
+  },
+  {
+    "company": "Vale",
+    "news_prefix": "vale do rio doce",
+    "ticker": "VALE5",
+    "collected": 147,
+    "legacy_filtered": 10,
+    "stock_quotes": 10832,
+    "news_path": "data/news/study/vale-do-rio-doce.json",
+    "stock_path": "data/stocks/study/VALE5.json"
+  },
+  {
+    "company": "Vivo",
+    "news_prefix": "vivo",
+    "ticker": "VIVO4",
+    "collected": 156,
+    "legacy_filtered": 22,
+    "stock_quotes": 10652,
+    "news_path": "data/news/study/vivo.json",
+    "stock_path": "data/stocks/study/VIVO4.json"
+  }
+]
